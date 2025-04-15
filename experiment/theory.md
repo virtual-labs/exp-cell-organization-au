@@ -99,16 +99,30 @@ Apart from these shapes, square shaped and rectangular shaped bacteria are also 
  
 Cocci are roughly spherical cells. They may exist as individual cells or are clustered together. In some cases, as in the genus Neisseria the cells may be found in pairs. Such a pair of Cocci is known as diplococci.
  
+
+&nbsp;
+
+<img src="images/1.jpg" title="" />
+
  
 Neisseria
  
 Sometimes they may be found attached to each other as in chains. This type of morphology is shown by genus Streptococcus, Enterococcus and Lactococcus.
  
- 
+&nbsp;
+
+<img src="images/2.jpg" title="" />
+
 Streptococcus
+
 In certain genus like Staphylococcus the cells are clustered together like grapes.
  
  
+&nbsp;
+
+<img src="images/3.jpg" title="" />
+
+
 Staphylococcus
 
 &nbsp;
@@ -117,16 +131,25 @@ Staphylococcus
  
 Bacilli are rod shaped bacteria. Various bacilli may vary in length to width ratio. There are certain bacteria that are so short that they resemble coccus and are termed coccobacilli.
  
- 
+&nbsp;
+
+<img src="images/4.jpg" title="" />
+
 Bacilli
  
 The shape of the rod's end may be flat, cigar-shaped or circular. Some of the bacteria as distinctive curves and are known as vibrios.
  
+&nbsp;
+
+<img src="images/5.jpg" title="" />
  
 Vibrio.
  
 Some bacteria are shaped like long rods twisted into spirals or helices are called spirillum.
  
+&nbsp;
+
+<img src="images/6.jpg" title="" />
  
 Spirilla
 
@@ -136,6 +159,9 @@ Spirilla
  
 Bacterial cells are found in a number of sizes. Smallest bacteria belonging to the genus Mycoplasma is only 0.3ÃƒÅ½Ã‚Â¼m in diameter. Most bacterial size falls in the range of 1-5 ÃƒÅ½Ã‚Â¼m. The largest bacterium is Thiomargarita namibiensis. These are generally 0.1 x 0.3 mm (100 x 300 ÃƒÅ½Ã‚Â¼m) wide. The species was discovered by Heide N. Schulz and others in 1997, in the coastal sediments of Walvis Bay (Namibia).
  
+&nbsp;
+
+<img src="images/7.jpg" title="" />
  
 Thiomargarita namibiensis
  
@@ -147,15 +173,25 @@ Apart from cell structure and cell morphology certain other structures of cell c
  
 
 &nbsp;
+
+<img src="images/8.jpg" title="" />
+
  
 A stained preparation of Bacillus subtilis showing endospore as green and the vegetative cell as red
  
 1.	Albert staining: to identify metachromatic granules.
- 
- 
+
+
+
+<img src="images/9.jpg" title="" />
+
+ &nbsp;
+
 2.	Capsular staining: to observe the capsule around the bacteria. Stain used is Indian ink.
  
- 
+<img src="images/10.jpg" title="" />
+
+&nbsp;
  
 Though it is not possible to study the entire bacterial structure completely, light microscopy provides a simple and efficient technique to provide primary data of a specimen.
 
