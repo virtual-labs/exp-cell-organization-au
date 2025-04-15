@@ -1,24 +1,17 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Cell biology Virtual Lab I
+<b> Experiment|     <b> Cell Organization and Sub Cellular Structure Studies (Prokaryotic and Eukaryotic)
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The "Cell Organization and Sub Cellular Structure Studies (Prokaryotic and Eukaryotic)" module, part of the Cell Biology Virtual Lab I at Amrita Vishwa Vidyapeetham, offers an interactive platform for students to explore fundamental cell biology concepts. This virtual lab guides users through the processes of specimen preparation, fixation, and staining, essential for light microscopic examination of cells. By simulating both heat and chemical fixation techniques, along with simple staining methods, the lab enhances understanding of cellular structures and morphology in prokaryotic and eukaryotic cells. This educational tool is designed to reinforce theoretical knowledge through practical, hands-on virtual experiments.​
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
-
-### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  shyam@amrita.edu
+<b> Department |  Amrita Mind Brain Center
