@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) What is the purpose of fixation?",
+      "answers": 
+      {
+        "a": "It is used to increase the magnification of the cell.",
+        "b": "To preserve the internal and external structures of the cell.",
+        "c": "It is used to increase the resolution of the image.",
+        "d": "To remove dust particles from the slide."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+{
+      "question": "2) Green Plants contain only chlorophyll as their pigments:",
+      "answers": 
+  {
+        "a": "True",
+        "b": "False"
+  },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "3) Gram staining is an example for: ",
+      "answers": 
+  {
+        "a": "differential staining",
+        "b": "simple staining"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "4) Malachite green is commonly used in staining:",
+      "answers": 
+  {
+        "a": "Flagella",
+        "b": "Endospore",
+        "c": "Cell wall",
+        "d": "metachromatic granules"
+  },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+}
+  ]
+}
